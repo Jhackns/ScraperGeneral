@@ -1,4 +1,4 @@
-# 🚀 Scraper Universal Dinámico (Cyberpunk Edition)
+# Scraper Universal Dinámico
 
 Un potente motor de descubrimiento y extracción de recursos web desarrollado en **Python**, **Flet** y **Playwright**. Diseñado para sortear sistemas de carga perezosa (Lazy Loading) y protecciones WAF mediante un enfoque híbrido de intercepción de red y mapeo del DOM.
 
@@ -7,7 +7,7 @@ Un potente motor de descubrimiento y extracción de recursos web desarrollado en
 
 ---
 
-## 🛠️ Requisitos e Instalación
+## Requisitos e Instalación
 
 Para que el motor funcione correctamente en tu sistema, sigue estos pasos en orden:
 
@@ -30,7 +30,7 @@ python -m playwright install chromium
 
 ---
 
-## 🚀 Cómo ejecutar la aplicación
+## Cómo ejecutar la aplicación
 
 Una vez instaladas las dependencias, simplemente lanza el punto de entrada principal:
 
@@ -40,7 +40,7 @@ python main.py
 
 ---
 
-## 📖 Manual de Uso Correcto
+## Manual de Uso Correcto
 
 El Scraper está diseñado bajo un flujo de **Descubrimiento Dinámico** en cuatro fases:
 
@@ -66,7 +66,7 @@ Toda la información minada se guarda automáticamente en la raíz del proyecto 
 
 ---
 
-## 🌟 Características Principales
+## Características Principales
 
 *   **Diseño Cyberpunk**: Interfaz Neon moderna con Dark Mode integrado.
 *   **Doble Validación**: El motor verifica el Tipo MIME y la extensión real para evitar archivos basura.
