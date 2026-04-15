@@ -1,0 +1,25 @@
+{
+    "status": "ok",
+    "account_id": 21814,
+    "site_id": 309812,
+    "zone_id": 1567642,
+    "size_id": 9,
+    "alt_size_ids": [
+        8
+    ],
+    "tracking": "",
+    "inventory": {
+        "page": "https://larepublica.pe/",
+        "dfp_ad_unit_code": "%2F422621568%2Flarepublica.pe_Lateral_Right",
+        "domain": "larepublica.pe",
+        "documentLang": "es"
+    },
+    "ads": [
+        {
+            "status": "no-ads",
+            "reason": "no-compatible-ads",
+            "error_code": "10",
+            "impression_id": "6b0c4063-2445-44bc-9731-fcc12be5ec8a"
+        }
+    ]
+}

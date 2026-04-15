@@ -1,0 +1,7 @@
+flet>=0.23.2
+playwright>=1.48.0
+playwright-stealth>=1.0.6
+aiohttp>=3.10.11
+tldextract>=5.1.2
+beautifulsoup4>=4.12.3
+requests>=2.32.0
